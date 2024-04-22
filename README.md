@@ -1,4 +1,6 @@
 *** Mi Respuesta a la Task 2: From Perplexity
+
+
 To address the toil in the ticketing system, several potential solutions or products can be considered. These include:
 
 1. IT Ticketing Software: IT Ticketing Software is a cost-effective solution that reduces overheads associated with traditional service management. It automates and optimizes processes, which curtails operational costs and mitigates the risks of errors and delays. IT Ticketing Software is engineered with robust security protocols and complies with regulatory standards, ensuring the confidentiality and integrity of sensitive data[1].
