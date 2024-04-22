@@ -1,0 +1,11 @@
+Restart count: 30
+Scaling down deployment swype-app in namespace sre...
+deployment.apps/swype-app scaled
+Restart count: 0
+Restart count: 1
+Restart count: 2
+Restart count: 2
+Restart count: 3
+Restart count: 4
+Scaling down deployment swype-app in namespace sre...
+deployment.apps/swype-app scaled
